@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestBD</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="modificar">Modificar</string>
+</resources>
